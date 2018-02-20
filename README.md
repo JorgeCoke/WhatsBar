@@ -12,9 +12,9 @@ Run WathsApp Web right from the Taskbar(Win) or from the Menubar(macOS).
 
 ## Download links:
 
-* Windows:
+* Windows: [https://github.com/JorgeCoke/WhatsBar/releases/download/v1.0/WhatsBar-win32-ia32.zip](https://github.com/JorgeCoke/WhatsBar/releases/download/v1.0/WhatsBar-win32-ia32.zip)
 
-* macOS:
+* macOS: [https://github.com/JorgeCoke/WhatsBar/releases/download/v1.0/WhatsBar-darwin-x64.zip](https://github.com/JorgeCoke/WhatsBar/releases/download/v1.0/WhatsBar-darwin-x64.zip)
 
 ---
 
