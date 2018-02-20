@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+.npmrc
+dist
+WhatsBar-darwin-x64
+WhatsBar-linux-ia32
+WhatsBar-linux-x64
+WhatsBar-mas-x64
+WhatsBar-win32-ia32
+WhatsBar-win32-x64

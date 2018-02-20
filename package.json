@@ -1,0 +1,19 @@
+{
+  "name": "WhatsBar",
+  "version": "1.0.0",
+  "description": "WhatsBar",
+  "main": "index.js",
+  "productName": "WhatsBar",
+  "scripts": {
+    "start": "electron index.js --disable-gpu",
+    "build": "electron-packager . WhatsBar --all"
+  },
+  "devDependencies": {
+    "devtron": "^1.1.2",
+    "electron-packager": "^7.7.0",
+    "electron-prebuilt": "latest"
+  },
+  "dependencies": {
+    "menubar": "latest"
+  }
+}
