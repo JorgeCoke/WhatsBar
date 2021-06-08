@@ -38,5 +38,3 @@ var menubar = mb(config);
 ⚡️ Powered by [Electron](http://electron.atom.io/) && [menubar](https://github.com/maxogden/menubar)
 
 💻 [jorgecoke.github.io](https://jorgecoke.github.io/)
-
-<sub><sup>💡 COMPLETELY UNRELATED to [https://github.com/fscherwi/WhatsBar](https://github.com/fscherwi/WhatsBar)</sup></sub>
